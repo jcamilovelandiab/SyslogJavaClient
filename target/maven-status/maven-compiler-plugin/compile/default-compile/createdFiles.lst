@@ -1,0 +1,5 @@
+com\ompj4\main\WatchDirectory.class
+com\ompj4\syslog\UdpSyslogMessageSender$1.class
+com\ompj4\main\Main.class
+com\ompj4\syslog\AbstractSyslogMessageSender.class
+com\ompj4\syslog\UdpSyslogMessageSender.class
